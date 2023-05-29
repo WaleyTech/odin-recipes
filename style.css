@@ -1,0 +1,22 @@
+p {
+    font-style: italic;
+    font-weight: 800;
+}
+
+h1 {
+    color: red;
+    font-style: oblique;
+}
+
+h3 {
+    color: red;
+}
+
+ul, li {
+ font-style: italic;
+ font-weight: 600;
+}
+
+ol {
+    font-weight: bold;
+}
