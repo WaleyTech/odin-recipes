@@ -1,6 +1,8 @@
 p {
     font-style: italic;
     font-weight: 800;
+    background-color: yellowgreen;
+    text-align: justify;
 }
 
 h1 {
@@ -10,11 +12,21 @@ h1 {
 
 h3 {
     color: red;
+    background: lightsalmon;
+}
+
+strong {
+    background-color: lightsalmon;
+    color: red;
 }
 
 ul, li {
  font-style: italic;
  font-weight: 600;
+ background: yellowgreen;
+ padding: auto;
+ margin: auto;
+ border: 2px;
 }
 
 ol {
